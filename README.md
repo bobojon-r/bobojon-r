@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @bobojon97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Мой профиль
 
-<!---
-bobojon97/bobojon97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Привет! Я @bobojon97, программист, специализирующийся на разработке с использованием Python и Django. Вот некоторые из моих навыков:
+
+## Навыки
+
+- Python/Django
+- REST API
+- Linux
+- Apache/Nginx
+- Aiogram
+- Arduino
+- Git
+- PostgreSQL
+- MySQL
+- Redis
+
+Если у вас возникнут вопросы или есть предложения о сотрудничестве, не стесняйтесь связаться со мной.
+
+## Как связаться со мной
+
+- 💬 Телеграм: [@ThebestBoyBobojon](https://t.me/ThebestBoyBobojon)
+- 🔗 GitHub: [bobojon97](https://github.com/bobojon97)
