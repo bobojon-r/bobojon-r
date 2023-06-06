@@ -4,7 +4,8 @@
 
 ## Навыки
 
-- Python/Django
+- Python
+- Django
 - REST API
 - Linux
 - Apache/Nginx
