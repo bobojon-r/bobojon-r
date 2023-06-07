@@ -8,13 +8,17 @@
 - Django
 - REST API
 - Linux
-- Apache/Nginx
+- Nginx
 - Aiogram
 - Arduino
 - Git
 - PostgreSQL
 - MySQL
 - Redis
+- Html
+- Css
+- Bootstrap
+- Tailwindcss
 
 Если у вас возникнут вопросы или есть предложения о сотрудничестве.
 
