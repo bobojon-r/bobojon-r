@@ -6,7 +6,7 @@
 
 - Python
 - Django
-- REST API
+- Django Rest Framework
 - Linux
 - Nginx
 - Aiogram
