@@ -19,5 +19,5 @@ Python Backend-разработчик с опытом более 3+ лет в с
 
 ## Как связаться со мной
 
-- 💬 Телеграм: [@ThebestBoyBobojon](https://t.me/ThebestBoyBobojon)
+- 💬 Телеграм: [@ThebestBoyBobojon](https://t.me/@bobojon_r)
 - 🔗 GitHub: [bobojon97](https://github.com/bobojon-r)
