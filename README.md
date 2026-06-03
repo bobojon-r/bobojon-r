@@ -1,24 +1,27 @@
 <h1 align="center">Привет! 👋 Я Bobojon</h1>
 
 <p align="center">
-  <b>Python Backend-разработчик</b> · микросервисы · высоконагруженные REST API · DevOps
+  <b>Software Engineer</b> · от архитектуры до бизнес-логики · микросервисы · DevOps
 </p>
 
 <p align="center">
   <a href="https://t.me/bobojon_r">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=bobojon-r&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </p>
 
 ---
 
 ## 💫 Обо мне
 
-Python Backend-разработчик с опытом более **3 лет** в проектировании и разработке масштабируемых веб-приложений и автоматизированных систем. Специализируюсь на создании **микросервисных архитектур** и **высоконагруженных REST API**.
+Software Engineer с опытом **4+ года**. Закрываю весь путь — **от архитектуры до бизнес-логики**: проектирую масштабируемые системы, пишу сервисы и разворачиваю их в облаке.
 
 🔹 Строю **event-driven системы** на Apache Kafka
 🔹 Контейнеризирую и оркеструю сервисы в **Kubernetes** (minikube + AWS EKS)
 🔹 Настраиваю **CI/CD** пайплайны через GitHub Actions
+🔹 Разворачиваю облачную инфраструктуру через **Terraform** (AWS: EKS, RDS, MSK, ECR)
+🔹 Интегрирую платёжные системы (**Stripe**)
 🔹 Настраиваю **observability** стек (Prometheus, Grafana, OpenTelemetry, Sentry)
 🔹 Разрабатываю **Telegram-ботов** на aiogram
 
@@ -42,6 +45,7 @@ Python Backend-разработчик с опытом более **3 лет** в
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -53,9 +57,35 @@ Python Backend-разработчик с опытом более **3 лет** в
 
 **Интеграции и инструменты**
 
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bobojon-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bobojon-r&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobojon-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bobojon-r&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+</p>
+
+---
 
 ## 📫 Как связаться со мной
 
