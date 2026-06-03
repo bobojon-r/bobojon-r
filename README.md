@@ -8,7 +8,6 @@
   <a href="https://t.me/bobojon_r">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bobojon-r&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </p>
 
 ---
@@ -20,8 +19,6 @@ Python Backend-разработчик с опытом более **3 лет** в
 🔹 Строю **event-driven системы** на Apache Kafka
 🔹 Контейнеризирую и оркеструю сервисы в **Kubernetes** (minikube + AWS EKS)
 🔹 Настраиваю **CI/CD** пайплайны через GitHub Actions
-🔹 Разворачиваю облачную инфраструктуру через **Terraform** (AWS: EKS, RDS, MSK, ECR)
-🔹 Интегрирую платёжные системы (**Stripe**)
 🔹 Настраиваю **observability** стек (Prometheus, Grafana, OpenTelemetry, Sentry)
 🔹 Разрабатываю **Telegram-ботов** на aiogram
 
@@ -45,7 +42,6 @@ Python Backend-разработчик с опытом более **3 лет** в
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -61,8 +57,6 @@ Python Backend-разработчик с опытом более **3 лет** в
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
