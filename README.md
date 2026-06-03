@@ -53,33 +53,9 @@ Python Backend-разработчик с опытом более **3 лет** в
 
 **Интеграции и инструменты**
 
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobojon-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bobojon-r&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobojon-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bobojon-r&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
-</p>
-
----
 
 ## 📫 Как связаться со мной
 
